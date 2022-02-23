@@ -9,9 +9,9 @@
 # review when someone opens a pull request.
 *       @SashaCHU-st
 
+
 # Order is important; the last matching pattern takes the most
 # precedence. When someone opens a pull request that only
 # modifies JS files, only @js-owner and not the global
 # owner(s) will be requested for a review.
 *.html   @SashaCHU-st
-/aleksandra @SashaCHU-st
